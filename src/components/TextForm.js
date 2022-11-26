@@ -1,5 +1,5 @@
 import React,{useState} from 'react'
-import propTypes from 'prop-types'
+// import propTypes from 'prop-types'
 export default function TextForm(props) {
 
   const [text,setText]=useState("");
